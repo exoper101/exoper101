@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Harshit AKA @exoper101, working as an Analyst @TigerAnalytics!
+- 👋 Hi, I’m Harshit AKA @exoper101, working as a Senior analyst @TigerAnalytics!
 - 👀 I’m interested in Computer vision and Applied Machine Learning.
 - 🌱 I’m always learning!
 - 📫 How to reach me : harshit.chauhan@tigeranalytics.com
